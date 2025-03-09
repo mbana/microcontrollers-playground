@@ -38,6 +38,10 @@ $ picocom /dev/ttyACM0 -b 115200
 
 You might need to run as `sudo` or add yourself to the appriopriate group - `plugdev` or `dialout` for it to work without `sudo`.
 
+## References
+
+**TODO(MBama)**
+
 ## `LICENSE`
 
 See [`./LICENSE`](./LICENSE).
